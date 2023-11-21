@@ -14,8 +14,6 @@ watchEffect(() => {
     }
 });
 
-console.log(page.props.flash.success)
-
 </script>
 
 <template>
